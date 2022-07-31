@@ -10,10 +10,9 @@ And I like sleeping.
 
 And I like running.
 And I like colleting books.
+66666
 
-And I like playing cards.
-
-
+6: 666And I like playing cards.
 add something ttemp version.
 insert line.
 insert a second line.
