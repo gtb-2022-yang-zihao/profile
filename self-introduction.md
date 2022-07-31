@@ -13,4 +13,5 @@ And I like colleting books.
 
 And I like playing cards.
 
+add mul 666.
 
