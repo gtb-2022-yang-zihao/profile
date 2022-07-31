@@ -1,5 +1,2 @@
 int main() {
-
-	sout "hello";
 }
-dd 6666666666666666
