@@ -11,5 +11,6 @@ And I like sleeping.
 And I like running.
 And I like colleting books.
 
+And I like playing cards.
 
 
